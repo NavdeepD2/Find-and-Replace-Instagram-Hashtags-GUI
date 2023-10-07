@@ -9,7 +9,7 @@ sudo apt-get install pip -y # Ubuntu
 # Install requirements
 cd Find-and-Replace-Instagram-Hashtags-GUI
 
-pip -r requirements.txt 
+pip install -r requirements.txt 
 
 # Run .py
 python Generate_Tags.py
