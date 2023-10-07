@@ -11,6 +11,8 @@ sudo yum install python3-tk -y # Centos\RHEL
 
 sudo apt-get install python3-tk -y # Ubuntu
 
+sudo apt-get install xclip -y # Ubuntu
+
 # Install requirements
 cd Find-and-Replace-Instagram-Hashtags-GUI
 
